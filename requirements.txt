@@ -1,2 +1,2 @@
-streamlit-chat==0.0.2.1
+streamlit-chat==0.0.1
 transformers==2.1.0
